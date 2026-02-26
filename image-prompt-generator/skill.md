@@ -1,5 +1,5 @@
 ---
-name: prompt-generator
+name: image-prompt-generator
 description: 提示词生成器 - 根据用户主题描述智能生成完整的AI图像提示词，基于元素数据库
 ---
 
